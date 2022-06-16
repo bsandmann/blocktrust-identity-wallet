@@ -28,7 +28,7 @@ Then main reason to build a browser extension wallet are the possibilities to in
 Technically, the wallet is based on a .net SDK which talks to the Atala PRISM Node without the need of the PRISM SDK or any Kotlin/JVM Code in between. The wallet and the supporting libraries are all written in C# which are compiled to run as a Blazor application (based on WebAssembly). The same wallet code could also easily be deployed as an Android or iOS Application (using .net MAUI).
 
 
-# How to run
+## How to run
 Being just a POC at this state, you have to sideload the extension yourself and can’t just download it from the Chrome/Edge/Firefox Webstore.
 But it's straightforward:
 1.	Download the complete files of this GitHub repository
@@ -40,5 +40,5 @@ But it's straightforward:
 7.	The extension is now loaded. Pin the icon to have directly accessible.
 8.	Have fun trying it out
 
-# Contact
+## Contact
 For furhter information feel free to contact me at: sandmann@blocktrust.dev
