@@ -21,7 +21,7 @@ This wallet is a *proof-of-concept* for an Atala PRISM light wallet running as a
   * Sample implementation of “Signature request” and “Verification requests”
 
 ### dApp-Connector
-Then main reason to build a browser extension wallet are the possibilities to interact with verifiable credentials on websites. The test demonstrates a simple two-way communication between the wallet and a website. While the user flow is still rough, it shows how someone could:
+The main reason to build a browser extension wallet are the possibilities to interact with verifiable credentials on websites. The test demonstrates a simple two-way communication between the wallet and a website. While the user flow is still rough, it shows how someone could:
 * Build a website which asks the user to sign a credential which was created by the website. A possible use-case would be after a successful transaction on a website (e.g., a NFT-sale). The website could ask the user to write a short review and then send the credential to the users' wallet for the signature before getting the signed operation back to send it to the server. 
 * Build a website which asks the user for a specific credential. The website could request a credential issued by Alice with contains claim A and claim B. This request gets send to the wallet and evaluated. If the user has the requested credential in his wallet, he could simply “accept” the request and automatically send the credential including the proof to the website. The website could then simply verify it in its backend and then provide some service based on this credential: e.g., it could create an JWT-Token or Cookie. This would constitute a simple credential-based-login.
 
@@ -37,7 +37,7 @@ But it's straightforward:
 3.	Enable the developer mode
 4.	Click on “Load unpaxked”
 5.	Point it to the right directory and click Ok. If you get an error-message it usually means you are in the wrong directory 😉
-6.	You might get an error regarding “manifest v2”, but that’s expected for one.
+6.	You might get an error regarding “manifest v2”, but that’s expected for now.
 7.	The extension is now loaded. Pin the icon to have directly accessible.
 8.	Have fun trying it out
 
@@ -52,4 +52,4 @@ Besides the missing features there are currently a few minor or major problems:
 
 
 ## Contact
-For furhter information feel free to contact me at: sandmann@blocktrust.dev
+For further information feel free to contact me at: sandmann@blocktrust.dev
