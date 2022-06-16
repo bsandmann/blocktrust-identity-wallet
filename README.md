@@ -35,7 +35,7 @@ But it's straightforward:
 1.	Download the complete files of this GitHub repository
 2.	Open Chrome → Extensions
 3.	Enable the developer mode
-4.	Click on “Load decompressed extension”
+4.	Click on “Load unpaxked”
 5.	Point it to the right directory and click Ok. If you get an error-message it usually means you are in the wrong directory 😉
 6.	You might get an error regarding “manifest v2”, but that’s expected for one.
 7.	The extension is now loaded. Pin the icon to have directly accessible.
