@@ -7,6 +7,7 @@ This wallet is a *proof-of-concept* for an Atala PRISM light wallet running as a
   * While at rest, the wallet is encrypted (AES256) and gets decrypted when entering the wallet password.
   * ~~Restoring the DID with a mnemonic phrase~~
 * Display the DID and all derived keys: *master0, issuing0, revocation0*
+  * Auto-resolve of DID 
   * ~~Revoking the keys (or the Did in general)~~
 * Issue simple credentials to any other DID
   * Add a flat list of claims
