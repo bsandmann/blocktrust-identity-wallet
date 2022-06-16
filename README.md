@@ -41,5 +41,15 @@ But it's straightforward:
 7.	The extension is now loaded. Pin the icon to have directly accessible.
 8.	Have fun trying it out
 
+## Known issues
+Besides the missing features there are currently a few minor or major problems:
+-	Loading times are bad, partly because of the AOT compilation, partly because of missed optimizations
+-	Not optimized for Firefox
+-	Popup/Full Screen issues
+-	Sometimes not receiving requests / or displaying requests from the websites
+-	Unexpected navigation jumps
+-	Unclear support for manifest v3
+
+
 ## Contact
 For furhter information feel free to contact me at: sandmann@blocktrust.dev
