@@ -2,7 +2,7 @@
 A browser wallet for Atala PRISM
 
 ## Current releases (WIP)
-IIW release: https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20221127.16.zip
+https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20221127.17.zip
 
 ## How to run
 Currently you have to sideload the extension yourself and can’t just download it from the Chrome/Edge/Firefox Webstore.
