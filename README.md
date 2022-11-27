@@ -18,6 +18,9 @@ But it's straightforward:
 ![Install wallet in chrome](installChromeWallet1.jpg)
 ![Enable wallet in chrome](installChromeWallet2.jpg)
 
+# For testing SignIn/Website interaction
+The website interaction is currently under development. You can see a very simple example here: https://archpublisher.de/test.html
+After installation of the wallet click the buttons on this page to try out the different scenarios we are currently supporting
 
 ## Contact
 For further information feel free to contact me at: sandmann@blocktrust.dev
