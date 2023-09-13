@@ -2,7 +2,7 @@
 A browser wallet for Atala PRISM
 
 ## Current release (WIP)
-https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20230912.2.zip
+https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20230913.5.zip
 
 ## Older releases
 https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20230621.1.zip
