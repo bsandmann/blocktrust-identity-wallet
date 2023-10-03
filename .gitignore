@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/blocktrust-identity-wallet/FileContentIndex/0afe013d-264f-4373-ac20-d60dc40d6f04.vsidx
+/.vs/blocktrust-identity-wallet/FileContentIndex/82fa4c41-a64c-4ca1-b250-feb16e64e134.vsidx
+/.vs/blocktrust-identity-wallet/v17/TestStore/0/000.testlog
+/.vs/blocktrust-identity-wallet/v17/TestStore/0/testlog.manifest
+/.vs/slnx.sqlite
+/.vs/blocktrust-identity-wallet/v17/.wsuo
+/.vs/VSWorkspaceState.json
+/.vs/blocktrust-identity-wallet/FileContentIndex/44aed835-4c26-4b81-92e1-188dc6988f7c.vsidx
+/.vs/blocktrust-identity-wallet/FileContentIndex/67e05b88-0b92-4da2-b803-a9d6254f4842.vsidx
+/.vs/blocktrust-identity-wallet/FileContentIndex/e8cb3936-fbbd-441a-90f7-ead16d1b28fc.vsidx
+/.vs/blocktrust-identity-wallet/FileContentIndex
