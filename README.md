@@ -5,7 +5,7 @@ A browser wallet for Atala PRISM
 See the [Chrome Web Store](https://chrome.google.com/webstore/detail/lmnkhjcebkjmcgncgemdkbkmmbdkhnnk) (Alpha release 0.2.0 20230930.2 38e4166)
 
 ## Older releases
-https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20230930.2.zip Alpha 0.2.0
+https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20230930.2.zip
 https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20230913.5.zip
 https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20230621.1.zip
 https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20230516.2.zip
@@ -18,7 +18,7 @@ https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktr
 https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20221206.3.zip
 https://btpublicreleases.blob.core.windows.net/blocktrusttidentitywallet/blocktrust-identitywallet-20221127.17.zip
 
-## How to run
+## How to install and run for zip files not published in the Chrome Web Store
 Currently you have to sideload the extension yourself and can’t just download it from the Chrome/Edge/Firefox Webstore.
 But it's straightforward:
 1.	Download the extension from one of the links above
